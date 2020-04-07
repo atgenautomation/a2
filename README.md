@@ -12,4 +12,5 @@ Atgen A2 is a radically simple IT automation solution that automates application
   - Be the easiest IT automation system to use, ever.
   
   # Use A2
-You can install a released version of Atgen A2 via package manager(yum) by downloading latest release. See our installation guide for details on installing A2.
+You can see details on [How A2 Works](http://www.atgensoft.com/html/how_a2_work)
+You can install a released version of Atgen A2 via package manager(yum) by [downloading latest release](http://www.atgensoft.com/html/a2_trial). See our [installation guide](http://www.atgensoft.com/html/a2_installation) for details on installing A2.
