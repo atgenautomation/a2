@@ -1,2 +1,2 @@
-# a2
+# Atgen A2 Automation
 Atgen A2 is a radically simple IT automation solution that automates application builds, continuous testing, data parsing &amp; processing, report generation, batch processing, job scheduling, and many other IT needs. Avoid running repetitive batch jobs and managing access to deploy and update your applications — automate in a language that approaches plain English, using SSH or WinRM, with no agents to install on remote systems. http://www.atgensoft.com/
